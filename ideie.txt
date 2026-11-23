@@ -1,7 +1,0 @@
-In teorie cred ca ar trebui sa fie un market closed
-schimbarile in market ar trebui fi facute pe baza de tikuri la fiecare tick sa se intample ceva
-sa se poata pune pauza la tikuri
-
-primul pas de inteles cum se poate face sistemul asta de tikuri/ l-am facut intrebarea e acuma cum sa fac sa se apeleze el cand trebuie
-ma gandesc ca sa fac un simplu server si sa fac un frontend care cand apes un button sa se intapla ceva
-optiune sa dai automat tick 
